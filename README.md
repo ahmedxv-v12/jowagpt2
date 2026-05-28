@@ -2,6 +2,7 @@
   <img src="jowa_logo.png" alt="jowagpt2 Logo" width="450">
   <h1>jowagpt2</h1>
 </div>
+
 > A from-scratch Transformer model supporting Arabic & English.
 
 ## What is jowagpt2?
