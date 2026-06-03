@@ -12,7 +12,7 @@ Current specs:
 
 - **Parameters:** ```UNKOWN```   
 - **Languages:** ```Arabic & English```  
-- **Capabilities:** ```Text generation + simple math problem solving```  
+- **Capabilities:** ```Text generation + very simple math problem solving (example: You: 1+1 Ai:1+1=2)```  
 - **Status:** ```Under active development (not finished yet)```
 
 >  Note: [jowamAi](https://ahmedxv-v12.github.io/jowa-gpt/index.html) is a simplified version of jowagpt2.
