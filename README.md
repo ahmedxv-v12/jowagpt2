@@ -10,7 +10,7 @@
 It is a **Generative Pre-trained Transformer** built entirely from scratch.  
 Current specs:
 
-- **Parameters:** UNKOWN   
+- **Parameters:** ```UNKOWN```   
 - **Languages:** Arabic & English  
 - **Capabilities:** Text generation + simple math problem solving  
 - **Status:** Under active development (not finished yet)
